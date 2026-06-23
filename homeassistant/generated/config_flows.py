@@ -634,6 +634,7 @@ FLOWS = {
         "rehlko",
         "remote_calendar",
         "renault",
+        "renogy_gateway",
         "renson",
         "reolink",
         "rfxtrx",

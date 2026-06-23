@@ -8424,6 +8424,12 @@
       "integration_type": "hub",
       "config_flow": true,
       "iot_class": "local_push"
+    },
+    "renogy_gateway": {
+      "name": "Renogy Gateway",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "cloud_push"
     }
   },
   "helper": {
